@@ -13,5 +13,7 @@ Known Issues:
 - Probably more 
 
 Donate BTC: 3EYfd42eD5dZCWVBXYzrF5wMMR4ERLs68b
+
 Donate ETH: 0x020FB5A3DfcA8a23c2D3a2d8fe37E277ce183011
+
 Donate LTC: MD1kYZZALcZRRidE4E4ey4LhnT5C5eEfWU (Segwit)
